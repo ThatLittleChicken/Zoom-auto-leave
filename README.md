@@ -6,6 +6,6 @@ Auto leaves zoom call when class ends based on the amount of participants.
 - Open particpants
 - Run "Zoom auto leave"
 
-Will abort if cant read participant number
+Will abort if cant read participant number. Ensure all images are in the same folder as the program.
 
 Tested and made on 1920x1080 screen, find and edit location of "Participants (x)" if using different screen size
