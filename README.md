@@ -1,10 +1,13 @@
 # Zoom-auto-leave
-Auto leaves zoom call when class ends based on the amount of participants.
+To exit online class automatically while away from keyboard without being noticed that you went AFK. Auto leaves zoom call when class ends based on the amount of participants.
 
 ## Instructions
 - Open Zoom in maximize-windowed (not full screen)
 - Show particpants tab in zoom
 - Run "Zoom auto leave"
+
+## Prerequisite
+- Python 3.x installed
 
 Will abort if cant read participant number. Ensure all images are in the same folder as the program.
 
