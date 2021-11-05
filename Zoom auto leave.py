@@ -48,4 +48,4 @@ def imToString():
 
 imToString()
 
-# First python program so I have no idea what im doing.
+# no idea what im doing lol.
